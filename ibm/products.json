@@ -1,0 +1,13 @@
+[
+    {
+        "id": "wd",
+        "name": "Watson Discovery",
+        "methods": [
+            "connect",
+            "get_projects"
+        ],
+        "vars": [
+
+        ]
+    }
+]

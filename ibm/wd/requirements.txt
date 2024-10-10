@@ -1,0 +1,2 @@
+pip install --upgrade "ibm-watson>=7.0.0"
+pip freeze > requirements.txt

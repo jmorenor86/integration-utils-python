@@ -1,0 +1,8 @@
+def wd_connect():
+    discovery= DiscoveryV2(
+        version='2023-03-31',
+        authenticator=get_authenticator()
+    )
+    discovery.set_service_url('')
+    return discovery
+
